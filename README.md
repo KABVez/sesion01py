@@ -10,7 +10,7 @@ Se publico en github pues estoy trabajando en una tablet con
 <br><br>
 
 
-Entonces se trabajara un proyecto conjusnto en este repositorio. 
+Entonces se trabajara un proyecto conjunto en este repositorio. 
 
 
 <br><br>
