@@ -21,7 +21,7 @@ area=(base*altura)/2
 print("El area del triangulo es:",area)
 
 #V2
-print(f"El area del triangulo es:{area}")
+print(f"El area del triangulo es: {area}")
 
 #V3; este codigo el **round** es para redondear
-print(f"El area del triangulo es:",round(area,2))
+print("El area del triangulo es:",round(area,2))
