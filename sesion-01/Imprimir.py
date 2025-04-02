@@ -3,4 +3,4 @@
 print("hola mundo")
 print("el resultado de 5+3 es:", 5+3)
 nombre="Luis"
-print("Bienvenido {nombre} a nuestro skill")
+print(f'Bienvenido {nombre} a nuestro skil')
