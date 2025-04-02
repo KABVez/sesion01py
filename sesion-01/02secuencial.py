@@ -22,3 +22,6 @@ print("El area del triangulo es:",area)
 
 #V2
 print(f"El area del triangulo es:{area}")
+
+#V3
+print(f"El area del triangulo es:",round(area,2))
